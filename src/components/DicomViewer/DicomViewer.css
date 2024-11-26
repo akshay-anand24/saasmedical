@@ -1,0 +1,16 @@
+.dicom-viewer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .dicom-file-input {
+    margin-bottom: 10px;
+  }
+  
+  .dicom-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
