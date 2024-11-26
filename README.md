@@ -26,7 +26,7 @@ The DICOM Viewer is an intuitive and user-friendly web application built using R
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/akshay-anand24/saasmedical.git)>
    ```
 2. Navigate into the project directory.
 3. Install dependencies:
